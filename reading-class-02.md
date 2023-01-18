@@ -8,7 +8,7 @@ The difference between these editor are how responsive they are to user input. S
 Whatever editor you chose will depend on your preference and how you want to control how you code!
 
 
-** Things I want to know more about.**
+## Things I want to know more about.
 - Emmet
 - Which IDE is best for me
 
