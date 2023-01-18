@@ -1,6 +1,6 @@
 # Growth Mindset
 
-## Here's is my [profile](https://github.com/jonbrooks01)
+## My Github [profile](https://github.com/jonbrooks01)
 
 My interpretation on growth mindset is being able to take on challenges without Avoiding the hard parts. Being able to get out of the "same old same old" style of living and embrace the obstacles that come with new challenges.
 
