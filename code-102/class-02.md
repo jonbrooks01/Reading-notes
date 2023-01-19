@@ -1,5 +1,7 @@
 
-# Choosing an Editor
+# Class 02 Reading Notes
+
+## Choosing an Editor
 
 Choosing a text editor can seem daunting, there are so many out there with different functions and options. They can be as simple as Microsoft word or Apple Pages. However they can be as complicated as Sublime text or Brackets. 
 
