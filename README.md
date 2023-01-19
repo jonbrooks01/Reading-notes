@@ -14,3 +14,35 @@ Starting this class is going to take a lot of **growth mindset**, being able to 
  - ***Ask for help instead of lose focus***
  - ***Learn from others and share the knowledge***
 
+## Reading Notes
+
+## Class 102
+
+- [Class 01](Code 102/class-01)
+- [Class 02](Code 102/class-02)
+- [Class 03](Code 102/class-03)
+- [Class 04](Code 102/class-04)
+- [Class 05](Code 102/class-05)
+- [Class 06](Code 102/class-06)
+- [Class 07](Code 102/class-07)
+- [Class 08](Code 102/class-08)
+- [Class 09](Code 102/class-09)
+
+## Class 201
+
+- [Class 01](Code 201/class-01)
+- [Class 02](Code 201/class-02)
+- [Class 03](Code 201/class-03)
+- [Class 04](Code 201/class-04)
+- [Class 05](Code 201/class-05)
+- [Class 06](Code 201/class-06)
+- [Class 07](Code 201/class-07)
+- [Class 08](Code 201/class-08)
+- [Class 09](Code 201/class-09)
+- [Class 10](Code 201/class-10)
+- [Class 11](Code 201/class-11)
+- [Class 12](Code 201/class-12)
+- [Class 13](Code 201/class-13)
+- [Class 14](Code 201/class-14)
+- [Class 15](Code 201/class-15)
+

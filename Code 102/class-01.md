@@ -1,4 +1,6 @@
-# Github
+# Class 01 Reading Notes
+
+## Github
 
 Github lets users be in control of what they want to create for their own website.
 By using repositories users are able to create a world of their own.
