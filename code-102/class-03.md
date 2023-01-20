@@ -1,5 +1,5 @@
 # Class 03 Reading Notes
- ## Git
+## Git
 
  Git traces its roots to the open source software project linux kernel. The first DVCS was called Bitkeeper, However since there was tension between the linux kernel community aswell as Bitkeeper Linus Torvalds started to creat Git. Git allows for non-linear development across mutiple branches and with the simple design became on of the most utilized Version Control Systems in the world.
 
