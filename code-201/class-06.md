@@ -15,6 +15,6 @@
 
 ## Introduction to DOM
 
-1) Document Object Model (DOM) is the programming interface for web documents. It gives the webpage its structure from a section tag to a list tag everything is apart of the DOM. 
+1) Document Object Model (DOM) is the programming interface for web documents. It gives the webpage its structure from a section tag to a list tag everything is apart of the DOM.
 
 2) The DOM structures the webpage using tags like the head, main, footer. JavaScript uses the DOM as a road so that it can interact with the webpages as intended because without it JavaScript and any other language wouldn't know where to run their code on the webpage.
