@@ -1,6 +1,6 @@
 # Class 14 Reading Notes
 
-## Consider the History: THat TUme WHen Women Stopped Coding
+## Consider the History: That Time When Women Stopped Coding
 
 1) There was a rise in personal computers coming into U.S Homes. This lead the narrative that computers are for boys when movies like Weird Science and War Games came out focusing the dynamic towards males.
 
