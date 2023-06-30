@@ -67,8 +67,8 @@ Starting this class is going to take a lot of **growth mindset**, being able to 
 
 ## Code 401 - Advanced Software Development
 
-- [Class 01](code-401/class-01)
-- [Class 02](code-401/class-02)
+- [The Growth Mindset](code-401/The-Growth-Mindset)
+- [Practice in the Terminal](code-401/Practice-in-the-Terminal)
 - [Class 03](code-401/class-03)
 - [Class 04](code-401/class-04)
 - [Class 05](code-401/class-05)
