@@ -19,7 +19,7 @@
 
 1) Tests are small programs that are designed to verify that the software works as intended. They simulate various scenarios and check if the software is suppose to behave like it should.
 
-2) There are significant reductions in defectrates, tests can lead to improved design qualities in the code and a higher degree of technical quality with the code.
+2) There are significant reductions in defects, tests can lead to improved design qualities in the code and a higher degree of technical quality with the code.
 
 3)forgetting to run tests frequently, writing to many tests at once. Some team pitfalls are partial adoption(only a few developers will use them) and poor maintenance of the test suit.
 
