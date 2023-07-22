@@ -1,4 +1,4 @@
-# Class 06 Reading Notes
+# Class 05 Reading Notes
 
 ## Securing Passwords
 
