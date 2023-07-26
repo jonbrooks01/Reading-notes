@@ -23,3 +23,7 @@ RBAC Tutorial
 2) After a user successfully authenticates themselves in the system, then they can activate access rights/Authorization.
 
 3) RBAC might benefit a business in a few ways, since access is assigned to the role, polices don't need to be rewritten if a user leaves the organization. In addition new employees that come to the business are able to activate the given roles that they have been given by the company.
+
+## Reflection
+
+I hope to gain an understanding on how to implements RBAC in code in order to have it operating successfully in the server
