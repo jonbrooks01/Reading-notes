@@ -77,7 +77,7 @@ Starting this class is going to take a lot of **growth mindset**, being able to 
 - [Class 06](code-401/class-05)
 - [Class 07](code-401/class-06.5.md)
 - [Class 08](code-401/class-07)
-- [Class 09](code-401/class-08)
+- [Class 11](code-401/class-11)
 - [Class 10](code-401/class-09)
 - [Class 11](code-401/class-10)
 - [Class 12](code-401/class-11)
