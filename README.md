@@ -84,5 +84,7 @@ Starting this class is going to take a lot of **growth mindset**, being able to 
 - [Class 13](code-401/class-13)
 - [Class 16](code-401/class-16)
 - [Class 17](code-401/class-17)
+- [Class 18](code-401/class-18)
+- [Class 19](code-401/class-19)
 <!-- - [Class 12](code-401/class-11)
 - [Class 13](code-401/class-12) -->
