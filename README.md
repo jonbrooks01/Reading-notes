@@ -92,5 +92,6 @@ Starting this class is going to take a lot of **growth mindset**, being able to 
 - [Class 29](code-401/class-29)
 - [Class 30](code-401/class-30)
 - [Class 33](code-401/class-33)
+- [Class 34](code-401/class-34)
 <!-- - [Class 12](code-401/class-11)
 - [Class 13](code-401/class-12) -->
